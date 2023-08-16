@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event>
+    <name>New Year's Eve Party</name>
+    <description>Celebrate the new year with an unforgettable party featuring live music, dancing, and champagne.</description>
+  </event>
+  <event>
+    <name>Charity Walkathon</name>
+    <description>Join us for a fun and meaningful day of walking to raise funds for local charities.</description>
+  </event>
+  <event>
+    <name>Technology Conference</name>
+    <description>Explore the latest trends and innovations in the world of technology at this informative and exciting conference.</description>
+  </event>
+  <event>
+  <name>Aramb</name>
+  <description>This is an event organized by akhil, and was held on 9th August,</description>
+  </event>
+</events>
